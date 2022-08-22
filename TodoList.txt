@@ -1,0 +1,9 @@
+1 - Instalar Node Js
+https://nodejs.org/es/
+2 - Instalar Visual Studio Code
+https://code.visualstudio.com/
+3 - Instalar Android Studio
+https://developer.android.com/studio
+4 - Instalar un Emulador Android
+(Incluido en Android Studio)
+
